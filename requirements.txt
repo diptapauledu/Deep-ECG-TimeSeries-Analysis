@@ -1,0 +1,20 @@
+# Core numerical & data handling
+numpy
+pandas
+
+# Signal processing & time series analysis
+scipy
+statsmodels
+wfdb
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning utilities
+scikit-learn
+
+# Deep Learning (PyTorch - Python 3.14 compatible)
+torch
+torchvision
+torchaudio
